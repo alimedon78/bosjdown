@@ -121,7 +121,19 @@
 						</div>
 					</div>
 				</div>
-				
+				  <!-- Team Block -->
+				  <div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="assets/images/resource/Hon-kadi-Usman-Salihu-Sakwa-Kadi.jpg" alt="" />
+						</div>
+						<div class="lower-box">
+							<h5><a href="#">Hon. kadi Usman Salihu Sakwa </a></h5>
+							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<a class="arrow flaticon-right-arrow-3" href="#"></a>
+						</div>
+					</div>
+				</div>
 				<!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
@@ -136,19 +148,7 @@
 					</div>
 				</div>
 
-                <!-- Team Block -->
-				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Usman-Salihu-Sakwa-Kadi.jpg" alt="" />
-						</div>
-						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Usman Salihu Sakwa </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
-							<a class="arrow flaticon-right-arrow-3" href="#"></a>
-						</div>
-					</div>
-				</div>
+              
 				
 			</div>
 

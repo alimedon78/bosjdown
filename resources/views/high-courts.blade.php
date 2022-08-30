@@ -72,7 +72,7 @@
                                         <div class="column col-lg-4 col-md-4 col-sm-12">
                                             <div class="col-content-r">
 											<div class="image">
-												<img src="assets/images/resource/news-19.jpg" alt="" />
+												<img src="assets/images/resource/about.jpg" alt="" />
 											</div>
                                         </div>
 										</div>
@@ -96,90 +96,92 @@
 				<div class="team-block col-lg-3 mx-auto col-md-4 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/gk.jpg" alt="" />
+							<img src="assets/images/resource/cj.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Kadi Umar Ramat Mukaila</a></h5>
-							<div class="designation">The Grand Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Kashim Zannah</a></h5>
+							<div class="designation">The Chief Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
 				</div>
-
+				<!-- Team Block -->
+				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="assets/images/resource/Hon-Justice-wakkil-Alkali-Gana.jpg" alt="" />
+						</div>
+						<div class="lower-box">
+							<h5><a href="#">Hon. Justice Wakkil, Alkali Gana</a></h5>
+							<div class="designation">Judge, High  Court</div>
+							<a class="arrow flaticon-right-arrow-3" href="#"></a>
+						</div>
+					</div>
+				</div>
                 <!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-4 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-Kadi-Abubakar-Imam-Kadi-1.jpg" alt="" />
+							<img src="assets/images/resource/Hon-Justice-Aisha-Mohd-Ali.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Kadi Abubakar Imam</a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Aisha Mohammed Ali</a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
 				</div>
 
-                  <!-- Team Block -->
-				<div class="team-block col-lg-3 mx-auto col-md-4 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Ahmad-Goni-kur-Kadi.jpg" alt="" />
-						</div>
-						<div class="lower-box">
-							<h5><a href="#">Hon. Kadi Ahmad Goni kur </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
-							<a class="arrow flaticon-right-arrow-3" href="#"></a>
-						</div>
-					</div>
-				</div>
+                 
 				 
 		 </div>
 
  
 			<div class="row clearfix">
 				 
-				<!-- Team Block -->
-				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+				 <!-- Team Block -->
+				 <div class="team-block col-lg-3 mx-auto col-md-4 col-sm-12">
+					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Ahmad-Abba-Muhammad-Kadi.jpg" alt="" />
+							<img src="assets/images/resource/Hon-Justice-Aishatu-B-Kumali-.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Ahmad Abba Muhammad </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Aishatu B. Kumalia</a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
 				</div>
 				
-				<!-- Team Block -->
+				
+                <!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Mohammed-Gambo-Abubakar-Kadi.jpg" alt="" />
+							<img src="assets/images/resource/Hon-Justice-Haruna-Y-Mshelia.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Mohammed Gambo Abubakar </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Haruna Y. Mshelia</a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
 				</div>
 
-                <!-- Team Block -->
+				<!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Usman-Salihu-Sakwa-Kadi.jpg" alt="" />
+							<img src="assets/images/resource/Hon-Justice-Adamu-Zamdai-Mussa.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Usman Salihu Sakwa </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Adamu Zamdai Mussa</a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
 				</div>
+
 				
 			</div>
 
@@ -190,11 +192,11 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Ahmad-Abba-Muhammad-Kadi.jpg" alt="" />
+							<img src="assets/images/resource/Hon-Justice-Fadawu-Umaru.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Ahmad Abba Muhammad </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Fadawu Umaru</a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
@@ -204,11 +206,11 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Mohammed-Gambo-Abubakar-Kadi.jpg" alt="" />
+							<img src="assets/images/resource/Hon-Justice-Musa-Mustapha.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Mohammed Gambo Abubakar </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Musa Mustapha  </a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
@@ -218,15 +220,34 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-kadi-Usman-Salihu-Sakwa-Kadi.jpg" alt="" />
+							<img src="assets/images/resource/Hon-.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. kadi Usman Salihu Sakwa </a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
+							<h5><a href="#">Hon. Justice Waziri Alhaji Bukar</a></h5>
+							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
 				</div>
+				
+			</div>
+
+			<div class="row clearfix">
+				 
+				<!-- Team Block -->
+				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
+					<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+						<div class="image">
+							<img src="assets/images/resource/Hon-.jpg" alt="" />
+						</div>
+						<div class="lower-box">
+							<h5><a href="#">Hon. Justice Babagana Karumi</a></h5>
+							<div class="designation">Judge, High  Court</div>
+							<a class="arrow flaticon-right-arrow-3" href="#"></a>
+						</div>
+					</div>
+				</div>
+				 
 				
 			</div>
 
