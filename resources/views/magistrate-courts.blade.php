@@ -28,12 +28,9 @@
 										<!-- Column -->
 										<div class="column col-lg-8 col-md-8 col-sm-12">
                                             <div class="col-content">
-											<p class="text-justify">Sharia Court of Appeal is a Superior Court of Record established
-                                                 pursuant to Section 275, Constitution of the Federal Republic of Nigeria, 1999. 
-                                                 The Court has been empowered to, in addition to such other jurisdiction as may be
-                                                  conferred upon it by the law of the State, exercise such appellate and supervisory
-                                                   jurisdiction in civil proceedings involving questions of Islamic personal law 
-                                                   which the court is competent to decide</p>
+											<p class="text-justify">Magistrate Courts are courts established
+                                                 to administer civil and criminal justice in addition to such other jurisdiction as may be
+                                                  conferred upon it by the law of the State.</p>
 											<p>
                                                 <h4>Established Magistrate Courts</h4>
                                                 <ol>
@@ -67,7 +64,7 @@
                                         <div class="column col-lg-4 col-md-4 col-sm-12">
                                             <div class="col-content-r">
 											<div class="image">
-												<img src="assets/images/resource/news-19.jpg" alt="" />
+												<img src="assets/images/resource/magistrate.jpg" alt="" />
 											</div>
                                         </div>
 										</div>

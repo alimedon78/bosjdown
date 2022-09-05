@@ -42,7 +42,7 @@
                                         <div class="column col-lg-4 col-md-4 col-sm-12">
                                             <div class="col-content-r">
 											<div class="image">
-												<img src="assets/images/resource/news-19.jpg" alt="" />
+												<img src="assets/images/resource/sca-entrance.png" alt="" />
 											</div>
                                         </div>
 										</div>
