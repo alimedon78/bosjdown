@@ -84,6 +84,7 @@ Route::get('/news-and-events/{slug}', [EventController::class, 'shownews'])->nam
 Route::get('/news-and-events', [EventController::class, 'searchnews'])->name('search-news');
 Route::get('/', [EventController::class, 'index'])->name('home');
 Route::get('/index.html', [EventController::class, 'index'])->name('index');
+Route::get('/home', [EventController::class, 'index'])->name('home-l');
 
 
 Route::get('/gallery', function () {
