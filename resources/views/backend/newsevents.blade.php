@@ -1,21 +1,23 @@
-<x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('News And Events') }}
-        </h2>
-    </x-slot>
+@extends("layouts.backapp")
+  
+@section("content")
 
-    <div class="py-12">
-        <div class="max-w-7xl mx-auto sm:px-6 lg:px-4">
-            <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                <a href="/post-news"><x-button class="ml-3 my-3 mx-6">
+ 
+<div class="row clearfix">
+			
+    <!-- Info Block -->
+    <div class="info-block col-lg-10 mx-auto col-md-6  col-sm-12">
+        <div class="inner-box mt-4">
+             
+     
+                <a href="/post-news"><x-button class="ml-3 my-3 mx-6 theme-btn btn-style-two">
                     {{ __('Create') }}
                 </x-button></a>
 
-<div class="overflow-x-auto relative">
-
-    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                <div class="tbl-content">
+<table cellpadding="0" cellspacing="0" border="0">
+    <tbody>
+        <thead class="text-xs uppercase bg-gray-50 ">
             <tr>
                 <th scope="col" class="py-3 px-6">
                    Title 
@@ -40,7 +42,7 @@
                 </th>
             </tr>
         </thead>
-        <tbody>
+       
             @forelse ($events as $event)
             <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                 <td class="py-4 px-6">
@@ -98,10 +100,9 @@
         </tbody>
     </table>
 </div>
-
-
  
-            </div>
-        </div>
-    </div>
-</x-app-layout>
+</div>
+</div>
+</div>
+
+	@endsection

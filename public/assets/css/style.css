@@ -4082,6 +4082,8 @@ img{
 .contact-form .form-group input[type="text"],
 .contact-form .form-group input[type="tel"],
 .contact-form .form-group input[type="email"],
+.contact-form .form-group input[type="password"],
+.contact-form .form-group input[type="date"],
 .contact-form .form-group input[type="file"],
 .contact-form .form-group select{
 	position:relative;
@@ -4105,6 +4107,8 @@ img{
 
 .contact-form .form-group input[type="text"]:focus,
 .contact-form .form-group input[type="tel"]:focus,
+.contact-form .form-group input[type="password"]:focus,
+.contact-form .form-group input[type="date"]:focus,
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group textarea:focus{
 	border-color:#460d06;

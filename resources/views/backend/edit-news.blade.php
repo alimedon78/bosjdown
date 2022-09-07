@@ -1,13 +1,15 @@
-<x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Edit News') }}
-        </h2>
-    </x-slot>
-    <x-auth-card >
-        <x-slot name="logo">
-            
-        </x-slot>
+@extends("layouts.backapp")
+  
+@section("content")
+
+ 
+<div class="row clearfix">
+			
+    <!-- Info Block -->
+    <div class="info-block col-lg-4 mx-auto col-md-6  col-sm-12">
+        <div class="inner-box mt-4">
+            <div class="contact-form">    
+
 
         <!-- Validation Errors -->
         <x-auth-validation-errors class="mb-4" :errors="$errors" />
@@ -16,21 +18,19 @@
             @csrf
             @method('PATCH')
             <!-- title -->
-            <div>
-                <x-label for="title" :value="__('Title')" />
-
+            <div class="form-group">
+                
                 <x-input id="title" class="block mt-1 w-full" type="text" name="title" :value="old('title', $news->title)" required autofocus />
             </div>
 
              <!-- content -->
-            <div>
-                <x-label for="content" :value="__('Content')" />
-
+            <div class="form-group">
+                
                 <textarea id="content" class="block mt-1 w-full" style="height: 315px;"  name="content"   required autofocus >{{old('content', $news->content)}}</textarea>
             </div>
 
              <!-- image -->
-            <div>
+            <div class="form-group">
              <div class="mr-2">
                             <img class="w-12 h-12 py-4 rounded-full" src="{{ asset('storage/news/'.$news->image) }}"/>
                         </div>
@@ -40,13 +40,13 @@
             </div>
 
              <!-- date -->
-            <div>
-                <x-label for="date" :value="__('Date')" />
+            <div class="form-group">
+                 
 
                 <x-input id="date" class="block mt-1 w-full" type="date" name="date" :value="old('date', $news->date)" required autofocus />
             </div>
 
-            <div>
+            <div class="form-group">
                 <x-label for="status" :value="__('Status')" />
                 <select class="form-select mb-3" name="status" aria-label="Default select example">
                                         <option :value="old('date', $news->date)">{{ $news->status }}</option>
@@ -62,11 +62,15 @@
 
             <div class="flex items-center justify-end mt-4">
                  
-                <x-button class="ml-4">
+                <x-button class="ml-4 theme-btn btn-style-two">
                     {{ __('Update') }}
                 </x-button>
             </div>
         </form>
-    </x-auth-card>
-</x-app-layout>
+    </div>
+</div>
+</div>
+</div>
+
+	@endsection
 
