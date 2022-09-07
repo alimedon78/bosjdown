@@ -22,44 +22,41 @@
                     
                 </div>
             </div>
-            <div class="col-content">
-            <p class="text-justify">The Judicial Research Centre (JRC) is a robust ICT infrastructure providing 
-                access to legal research tools, the Internet, and other productivity enhencement
-                 applications which help judicial officers and the court 
-                 officials to carry out their tasks more efficiently and with greater ease. </p>
-            </div>
+            
 								<div class="two-column">
 									<div class="row clearfix">
 										<!-- Column -->
 										<div class="column col-lg-8 col-md-8 col-sm-12">
                                             <div class="col-content">
-											<p class="text-justify">The JRC project is funded 
-                 by the European Union in collaboration with Borno State Government has facilities such as 
-                 satellite equipment for Internet connection, a server room with 
-                  advanced equipment, a pool of computers connected to the Internet.
+											<p class="text-justify">The Judicial Service Commission (JSC) is the established body with the power, subject
+                                                to the Constitution of Nigeria and notwithstanding the provisions of any other law to appoint, 
+                                                promote, dismiss and excercise disciplinary control over the Chief Registrar of the High Court of the State,  Chief Registrar of the 
+                                                 Sharia Court of Appeal of the State, Magistrates, Judges, members of area/sharia courts and all 
+                                                 staff of Judiciary and to determine their terms and conditions of service as to remuneration or otherwise. </p>
+                                            
                 
                 
                 </p>
 
-                <p class="text-justify">The objectives of the Judiciary component are  to develop and pilot the implementation of a
-                 comprehensive framework to strengthen judicial integrity and capacity in Nigeria at the
-                  federal and states level. The following six outputs are expected from the project:
+                <p class="text-justify">The Commission shall consist of the following members:
 
         <ul class="list-style-one">
            
-        <li>   National strategic framework for strengthening judicial integrity and capacity development,</li>
+        <li> The Chief Judge who shall be the Chairman</li>
 
-        <li>Assessment reports on justice sector integrity and capacity,</li>
+        <li>The Attorney-General of the State</li>
 
-        <li>Development and implementation of action plans for strengthening judicial integrity and capacity in the 10 pilot states,</li>
+        <li>The Grand Kadi</li>
 
-        <li>Enhancement of public trust in the justice system,</li>
+        <li>One person who is a legal practioner and who has been so qualified to practice
+            as a legal practitioner in Nigeria for not less than ten years
+        </li>
 
-        <li>Enhancement of professional capacity of judicial staff,</li>
+        <li>One person not being a legal practitioner, who in the opinion of the Governor
+            is of unquestionable integrity
+        </li>
 
-        <li>Increased judicial operational capacity through the design and deployment of the Judicial Research
- Centres (JRCs) in
-   each of the Judicial Headquarters and a Judicial training centre (JTC) at NJI. </li>
+         
     
    </p>
 											

@@ -11,9 +11,9 @@
             <div class="contact-form">    
 
         <!-- Validation Errors -->
-        <x-auth-validation-errors class="mb-4" :errors="$errors" />
+        <x-auth-validation-errors class="mb-4 text-danger" :errors="$errors" />
         @isset($denied)
-        <x-auth-validation-errors class="mb-4" :errors="$denied" />
+        <x-auth-validation-errors class="mb-4 text-danger" :errors="$denied" />
 
         <p>{{ $denied }}</p>
             @endisset
