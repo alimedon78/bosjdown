@@ -446,7 +446,10 @@
 								<img src="assets/images/resource/author-1.png" alt="" />
 							</div>
 							<span class="quote-icon flaticon-quote-1"></span>
-							<div class="text">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil rentoa molestiae conseruatur vela illum qui dolorem eum fugiat ruo voluetas nulla ariatur minima veniam.</div>
+							<div class="text">there is no reason or excuse for corruption. It should by now
+								be a judicially noticeable fact that we have only one reaction to corrupt 
+								conduct, only one, and that is dismissal and disgrace.
+							</div>
 							<div class="name">Hon. Justice Kashim Zannah</div>
 						</div>
 					</div>
