@@ -5,7 +5,14 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Subscriber;
 use App\Models\Message;
+use App\Notifications\PetitionReceived;
+use App\Notifications\SendPetition;
+use App\Notifications\Contactmessage;
+use App\Mail\notifypetition;
 
+ 
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Notification;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\Rules\File;
 
@@ -87,10 +94,23 @@ class SubscribeController extends Controller
            // $fileNameToStore = 'no-upload';
             //$merged = $attributes->put('file', $fileNameToStore);
 
-           Message::UpdateOrCreate($attributes, ['file' => $fileNameToStore]);
+           $message = Message::UpdateOrCreate($attributes, ['file' => $fileNameToStore]);
+           $service = ['mohammed.ali@courts.gov.ng',  'muhammad.auwalu@courts.gov.ng', 'mohammedaling@gmail.com'];
+            
+             if($request->type == 'Petition') {
+            
+           // Mail::to($service)->send(new notifypetition($message));
+           //petition.hcourt@courts.gov.ng 'kashim.zannah@courts.gov.ng',
+            Notification::route('mail', $service)->notify(New PetitionReceived($message));
+            Notification::route('mail', ['mohammed.ali@courts.gov.ng', 'muhammad.auwalu@courts.gov.ng',])->notify(New SendPetition($message));
 
+          }
+          else 
+          {
+           Notification::route('mail', ['mohammed.ali@courts.gov.ng', 'muhammad.auwalu@courts.gov.ng',])->notify(New Contactmessage($message));
+          }
             return view('contact-us')->with('title', 'Thank you')
-                                ->with('details', 'Your message have been sent successfully, we will reply you if necessary.');
+                        ->with('details', 'Your message have been sent successfully, we will reply you if necessary.');
             }
 
 
