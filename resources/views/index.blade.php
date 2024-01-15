@@ -365,9 +365,9 @@
 							<img src="assets/images/resource/cj.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Justice Kashim Zannah</a></h5>
+							<h5><a href="#">Hon. Justice Kashim Zannah OFR</a></h5>
 							<div class="designation">The Chief Judge and Chairman Judicial Service Commission</div>
-							<a class="arrow flaticon-right-arrow-3" href="#"></a>
+							{{-- <a class="arrow flaticon-right-arrow-3" href="#"></a> --}}
 						</div>
 					</div>
 				</div>
@@ -378,7 +378,7 @@
 
 
 <div class="sec-title centered">
-				<h2>Cheif Registrars</h2>
+				<h2>Cheif Registrar</h2>
 			</div>
 			<div class="row clearfix">
 				 
@@ -391,12 +391,12 @@
 						<div class="lower-box">
 							<h5><a href="#">Babagana Mustapha </a></h5>
 							<div class="designation">The Chief Registrar, High Courts Division</div>
-							<a class="arrow flaticon-right-arrow-3" href="#"></a>
+							{{-- <a class="arrow flaticon-right-arrow-3" href="#"></a> --}}
 						</div>
 					</div>
 				</div>
 				
-				<!-- Team Block -->
+				<!-- Team Block 
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
@@ -408,7 +408,7 @@
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				
 			</div>
 
@@ -422,7 +422,7 @@
 		<div class="auto-container">
 			<!-- Sec Title -->
 			<div class="sec-title centered">
-				<h2>Quote From the Judges</h2>
+				<h2>Quote From the Chief Judge</h2>
 			</div>
 			<div class="inner-container">
 				<div class="single-item-carousel owl-carousel owl-theme">
@@ -438,38 +438,11 @@
 								be a judicially noticeable fact that we have only one reaction to corrupt 
 								conduct, only one, and that is dismissal and disgrace.
 							</div>
-							<div class="name">Hon. Justice Kashim Zannah</div>
+							<div class="name">Hon. Justice Kashim Zannah OFR</div>
 						</div>
 					</div>
 					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="author-image">
-								<img src="assets/images/resource/author-1.png" alt="" />
-							</div>
-							<span class="quote-icon flaticon-quote-1"></span>
-							<div class="text">there is no reason or excuse for corruption. It should by now
-								be a judicially noticeable fact that we have only one reaction to corrupt 
-								conduct, only one, and that is dismissal and disgrace.
-							</div><div class="name">Hon. Justice Kashim Zannah</div>
-						</div>
-					</div>
-					
-					<!-- Testimonial Block -->
-					<div class="testimonial-block">
-						<div class="inner-box">
-							<div class="author-image">
-								<img src="assets/images/resource/author-1.png" alt="" />
-							</div>
-							<span class="quote-icon flaticon-quote-1"></span>
-							<div class="text">there is no reason or excuse for corruption. It should by now
-								be a judicially noticeable fact that we have only one reaction to corrupt 
-								conduct, only one, and that is dismissal and disgrace.
-							</div><div class="name">Hon. Justice Kashim Zannah</div>
-						</div>
-					</div>
-					
+					 
 				</div>
 			</div>
 		</div>

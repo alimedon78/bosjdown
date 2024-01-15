@@ -40,16 +40,16 @@ the different levels of Courts</p>
 										<!-- Column -->
 										<div class="column col-lg-8 col-md-8 col-sm-12">
 											<div class="col-content">
-											<p class="text-justify">The Borno State High Courts division is one of the pilot states to commence
-												the use of the NCMS at states High Courts level. The Borno High Courts have being using the NCMS 
+											<p class="text-justify">Borno State is one of the pilot states to commence
+												the use of the NCMS at states High Courts level. The Borno High Courts have been using the NCMS 
 												since the year 2020.  
 											</p>
 												 
 											<p class="text-justify">Nigerian Lawyers with fuctioning legal mail (...@nigerianbar.ng) can now 
 												file their cases into the Nigerian Case Managment System via the ncms-efiling portal. 
-												Lawyers, on behalf or their clients, can upload case documents or other applications to courts and make necessary payments
+												Lawyers, on behalf of their clients, can upload case documents or other applications to courts and make necessary payments
 												anywhere they are. You can access the portal with the link below. </p>
-												<p><a href="https://ncmsefiling-aztest.azurewebsites.net">https://ncmsefiling-aztest.azurewebsites.net</a>
+												<p><a href="https://efiling.courts.gov.ng/" target="_blank">https://efiling.courts.gov.ng/</a>
 											</p>
 										</div>
 									</div>

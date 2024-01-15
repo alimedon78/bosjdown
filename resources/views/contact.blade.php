@@ -34,8 +34,8 @@
                     <div class="icon flaticon-smartphone"></div>
                     <h5>Phone</h5>
                     <ul class="info-list">
-                        <li><a href="tel:+234 8036502128">+234 8036502128</a></li>
-                        <li><a href="tel:+234 8036502128">+234 8036502128</a></li>
+                        <li><a href="tel:+234 8133450628">+234 8133450628</a></li>
+                        <li><a href="tel:+234 +234 7057600015">+234 +234 7057600015</a></li>
                     </ul>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                     <h5>Email</h5>
                     <ul class="info-list">
                         <li><a href="mailto:bornochiefregistar@courts.gov.ng">bornochiefregistar@courts.gov.ng</a></li>
-                        <li><a href="mailto:info@bosj.gov.ng">info@bornojudiciary.gov.ng</a></li>
+                        <li><a href="mailto:info@bosj.gov.ng">info@bornojudiciary.ng</a></li>
                     </ul>
                 </div>
             </div>

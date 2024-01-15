@@ -63,6 +63,7 @@
                                         <li><a href="/high-courts">High Courts</a></li>
                                         <li><a href="/sharia-court-of-appeal">Sharia Court of Appeal</a></li>
                                         <li><a href="/magistrate-courts">Magistrate Courts</a></li>
+										<li><a href="/small-claims-courts">Small Claims Courts (Magistrates' Courts)</a></li>
                                         <li><a href="/upper-sharia-courts">Upper Sharia Courts</a></li>
                                         <li><a href="/sharia-courts">Sharia Courts</a></li>
                                     </ul>
@@ -85,12 +86,18 @@
 										<li><a href="/news-and-events">News and Events</a></li>
                                 		<li><a href="/watch">Watch Event</a></li>
                                         <li><a href="/gallery">Gallery</a></li>
+                                       
+                                    </ul>
+                                </li>
+
+								<li class="dropdown"><a href="#"><span>Resources</span></a>
+                                    <ul>
+										<li><a href="/ncms-efiling">NCMS E-Filing</a></li>
+                                	 
                                         <li><a href="/downloads">Downloads</a></li>
                                     </ul>
                                 </li>
-                                
-								<li><a href="/ncms-efiling">NCMS E-Filing</a></li>
-								
+                                 
                             </ul>
                         </div>
                     </nav>
@@ -188,7 +195,7 @@
                                 <div class="footer-widget links-widget">
 									<h5>Quick links</h5>
 									<ul class="footer-list">
-										<li><a href="#">NCMS E-Filing</a></li>
+										<li><a href="https://efiling.courts.gov.ng/" target="_blank">NCMS E-Filing</a></li>
 										<li><a href="http://www.nigerianbar.ng"  target="_blank">Nigerian Bar Association</a></li>
 										<li><a href="http://mail.nigerianbar.ng"  target="_blank">Legal Mail</a></li>
 										<li><a href="http://www.legalaidcouncil.gov.ng"  target="_blank">Legal Aid Council</a></li>
@@ -212,15 +219,19 @@
 									<ul>
 										<li>
 											<span class="icon flaticon-call-1"></span>
-											<a href="tel:+234 13 8376 6284">+234 80 3650 2128</a>
+											<a href="tel:+234 8133450628">+234 8133450628</a>
 										</li>
 										<li>
 											<span class="icon flaticon-call-1"></span>
-											<a href="tel:+234 65 0000 9999">+234 65 0000 9999</a>
+											<a href="tel:+234 7057600015">+234 7057600015</a>
 										</li>
 										<li>
 											<span class="icon flaticon-email-2"></span>
-											<a href="mailto:info@bosj.gov.ng">info@bornojudiciary.gov.ng</a>
+											<a href="mailto:info@bornojudiciary.ng">info@bornojudiciary.ng</a>
+										</li>
+										<li>
+											<span class="icon flaticon-email-2"></span>
+											<a href="/contact">Send Message to Us</a>
 										</li>
 										<li>
 											<span class="icon flaticon-maps-and-flags"></span>
@@ -265,7 +276,7 @@
 		</div>
 		<div class="footer-bottom">
 			<div class="auto-container">
-				<div class="copyright">Powered by, Borno State Judiciary. All Rights Reserved.</div>
+				<div class="copyright">Powered by Borno State Judiciary. All Rights Reserved.</div>
 			</div>
 		</div>
 	</footer>

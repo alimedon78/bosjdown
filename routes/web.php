@@ -40,6 +40,9 @@ Route::get('/sharia-court-of-appeal', function () {
 Route::get('/magistrate-courts', function () {
     return view('magistrate-courts');
 });
+Route::get('/small-claims-courts', function () {
+    return view('scc-courts');
+});
 Route::get('/sharia-courts', function () {
     return view('area-courts');
 });

@@ -32,7 +32,8 @@
 												<ul class="list-style-one">
 												<li><a href="/assets/files/Borno-HC-Civil-Procedure-Rules-2017.pdf" >BORNO-HIGH-COURT-CIVIL-PROCEDURE-RULES-2017</a></li>
 												<li><a href="/assets/files/SHARIA-COURT-LAW-AND-SHARIA-COURT-Civil-Procedure-Rules.pdf" >BORNO-SHARIA-COURT-LAW-AND-SHARIA-COURT-CIVIL-PROCEDURE-RULES</a></li>
-												 
+												<li><a href="/assets/files/Small-Claims-Court-Practice-Directions-2023.pdf" >BORNO-SMALL-CLAIMS-COURTS-PRACTICE-DIRECTIONS-2023</a></li>
+												
 												</ul>
 											</p>
 												 
