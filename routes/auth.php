@@ -14,23 +14,23 @@ Route::middleware('guest')->group(function () {
     Route::get('authregister', [RegisteredUserController::class, 'create'])
                 ->name('register');
 
-    Route::post('authregister', ['https' => true, RegisteredUserController::class, 'store']);
+    Route::post('authregister', [RegisteredUserController::class, 'store']);
 
     Route::get('authlogin', [AuthenticatedSessionController::class, 'create'])
                 ->name('login');
 
-    Route::post('authlogin', ['https' => true, AuthenticatedSessionController::class, 'store']);
+    Route::post('authlogin', [AuthenticatedSessionController::class, 'store']);
 
     Route::get('authforgot-password', [PasswordResetLinkController::class, 'create'])
                 ->name('password.request');
 
-    Route::post('authforgot-password', ['https' => true, PasswordResetLinkController::class, 'store'])
+    Route::post('authforgot-password', [PasswordResetLinkController::class, 'store'])
                 ->name('password.email');
 
     Route::get('reset-password/{token}', [NewPasswordController::class, 'create'])
                 ->name('password.reset');
 
-    Route::post('reset-password', ['https' => true, NewPasswordController::class, 'store'])
+    Route::post('reset-password', [NewPasswordController::class, 'store'])
                 ->name('password.update');
 });
 
@@ -42,15 +42,15 @@ Route::middleware('auth')->group(function () {
                 ->middleware(['signed', 'throttle:6,1'])
                 ->name('verification.verify');
 
-    Route::post('email/verification-notification', ['https' => true, EmailVerificationNotificationController::class, 'store'])
+    Route::post('email/verification-notification', [EmailVerificationNotificationController::class, 'store'])
                 ->middleware('throttle:6,1')
                 ->name('verification.send');
 
     Route::get('confirm-password', [ConfirmablePasswordController::class, 'show'])
                 ->name('password.confirm');
 
-    Route::post('confirm-password', ['https' => true, ConfirmablePasswordController::class, 'store']);
+    Route::post('confirm-password', [ConfirmablePasswordController::class, 'store']);
 
-    Route::post('logout', ['https' => true, AuthenticatedSessionController::class, 'destroy'])
+    Route::post('logout', [AuthenticatedSessionController::class, 'destroy'])
                 ->name('logout');
 });
