@@ -95,19 +95,19 @@ class SubscribeController extends Controller
             //$merged = $attributes->put('file', $fileNameToStore);
 
            $message = Message::UpdateOrCreate($attributes, ['file' => $fileNameToStore]);
-           $service = ['mohammed.ali@courts.gov.ng',  'muhammad.auwalu@courts.gov.ng', 'mohammedaling@gmail.com'];
+           $service = ['mohammed.ali@courts.gov.ng',  'mohammedaling@gmail.com'];
             
              if($request->type == 'Petition') {
             
            // Mail::to($service)->send(new notifypetition($message));
            //petition.hcourt@courts.gov.ng 'kashim.zannah@courts.gov.ng',
             Notification::route('mail', $service)->notify(New PetitionReceived($message));
-            Notification::route('mail', ['mohammed.ali@courts.gov.ng', 'muhammad.auwalu@courts.gov.ng',])->notify(New SendPetition($message));
+            Notification::route('mail', ['mohammed.ali@courts.gov.ng',])->notify(New SendPetition($message));
 
           }
           else 
           {
-           Notification::route('mail', ['mohammed.ali@courts.gov.ng', 'muhammad.auwalu@courts.gov.ng',])->notify(New Contactmessage($message));
+           Notification::route('mail', ['mohammed.ali@courts.gov.ng',])->notify(New Contactmessage($message));
           }
             return view('contact-us')->with('title', 'Thank you')
                         ->with('details', 'Your message have been sent successfully, we will reply you if necessary.');

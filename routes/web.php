@@ -105,8 +105,8 @@ Route::get('/downloads', function () {
 }); 
 
 
-Route::post('/subscribe', [SubscribeController::class, 'subscribe']);
-Route::post('/sendmessage', [SubscribeController::class, 'store']);
+Route::post('/subscribe', ['https' => true, SubscribeController::class, 'subscribe']);
+Route::post('/sendmessage', ['https' => true, SubscribeController::class, 'store']);
 
 
 Route::middleware('auth')->group(function () {
@@ -135,8 +135,8 @@ Route::get('/post-news', [EventController::class, 'show'])->name('post-news');
 Route::get('/edit-news/{event}/edit', [EventController::class, 'edit'])->name('edit-news');
 Route::patch('/edit-news/{event}', [EventController::class, 'update'])->name('update-news');
 Route::delete('/edit-news/{event}', [EventController::class, 'destroy'])->name('destroy-news');
-Route::post('/create-news', [EventController::class, 'store'])->name('create-news');
-Route::post('/post-watchevent', [EventController::class, 'updateStream'])->name('post-watch');
+Route::post('/create-news', ['https' => true, EventController::class, 'store'])->name('create-news');
+Route::post('/post-watchevent', ['https' => true, EventController::class, 'updateStream'])->name('post-watch');
 
 });
 require __DIR__.'/auth.php';
