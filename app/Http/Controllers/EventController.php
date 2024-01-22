@@ -18,7 +18,7 @@ class EventController extends Controller
         }
         else
         {
-        $events = Event::whereNot('id', $lates->id)->where('status', 1)->limit(2)->orderBy('updated_at', 'DESC')->get();
+        $events = Event::where('status', 1)->limit(2)->orderBy('updated_at', 'DESC')->get();
         }
        return view('index', [
            'latest'=> $lates,

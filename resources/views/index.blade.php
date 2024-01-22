@@ -289,26 +289,7 @@
 					
 					<!-- Accordian Box -->
 					<ul class="accordion-box">
-						@isset($latest)
-						<!-- Block -->
-						<li class="accordion block active-block">
-						<div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus flaticon-plus"></span> <span class="icon icon-minus fa fa-minus"></span>
-						</div><a class="news-title" href="/news-and-events/{{ $latest->slug}}">{{ $latest->title }}</a></div>
-							<div class="acc-content current">
-								<div class="content">
-									<div class="accordian-text">{!! Str::limit($latest->content, 250) !!}<a class="news-title" href="/news-and-events/{{ $latest->slug}}"> Read More</a></div>
-								</div>
-							</div>
-						</li>
-						@else
-						<li class="accordion block">
-							<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus flaticon-plus"></span> <span class="icon icon-minus fa fa-minus"></span>
-						</div>Not Found</div>
-							<div class="acc-content">
-								 
-							</div>
-						</li>
-						@endisset
+						 
 						@isset($events)
 						@forelse ($events as $event)
 						<!-- Block -->
