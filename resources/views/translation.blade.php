@@ -29,7 +29,7 @@
 										<div class="column col-lg-8 col-md-8 col-sm-12">
 											<div class="col-content">
 											<p class="text-justify">The Borno State High Court has a translation unit for translation of 
-												court proceeding records. Borno is a multicultural and multi-ethinic state where most of its 
+												court proceeding records. Borno is a multicultural and multi-ethnic state where most of its 
 											residents speak local languages of Kanuri and Hausa.</p>
 											<p class="text-justify">The Sharia Courts in the state take their record of proceedings in Hausa 
         language  and when cases from such courts are appealed to the Sharia Court of Appeal or State High courts,

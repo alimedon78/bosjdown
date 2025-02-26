@@ -59,7 +59,13 @@
                                                 <li>High Court No. 12</li>
                                                 <li>High Court No. 13</li>
                                                 <li>High Court No. 14</li>
-
+												<li>Bama/Konduga High Court Division</li>
+												<li>Biu High Court Division</li>
+												<li>Gwoza High Court Division</li>
+												<li>Kaga High Court Division</li>
+												<li>Mobbar/Kukawa High Court Division</li>
+												<li>Monguno High Court Division</li>
+												<li>Ngala High Court Division</li>
                                                 <li></li>
                                             </ul>
 
@@ -99,7 +105,7 @@
 							<img src="assets/images/resource/cj.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Justice Kashim Zannah</a></h5>
+							<h5><a href="#">Hon. Justice Kashim Zannah, OFR</a></h5>
 							<div class="designation">The Chief Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
@@ -169,19 +175,7 @@
 						</div>
 					</div>
 				</div>
-<!-- Team Block -->
-<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
-	<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-		<div class="image">
-			<img src="assets/images/resource/Hon-Justice-Fadawu-Umaru.jpg" alt="" />
-		</div>
-		<div class="lower-box">
-			<h5><a href="#">Hon. Justice Fadawu Umaru</a></h5>
-			<div class="designation">Judge, High  Court</div>
-			<a class="arrow flaticon-right-arrow-3" href="#"></a>
-		</div>
-	</div>
-</div>
+ 
 				
 			</div>
 

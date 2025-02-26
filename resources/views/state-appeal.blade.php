@@ -28,11 +28,11 @@
 										<div class="column col-lg-8 col-md-8 col-sm-12">
             <div class="col-content">
                 
-                <p class="text-justify">The Borno State Appeal is an appalent court session. In the excersie of the powers conferred by section 67 of the 
+                <p class="text-justify">The Borno State Appeal is an  appellate court session. In the excersie of the powers conferred by section 67 of the 
                                                 High Court  Law (Cap.63) upon the Chief Judge. The Chief Judge hereby directs as follows:
                                             </p>
 											<p>Pursuant to the provision of Section 66 of the High Court Law (Cap.63), the High Court
-                                                of Borno State shall be in session daily throughout of the year for the hearing and determination
+                                                of Borno State shall be in session daily throughout the year for the hearing and determination
                                                 of all cases (whether civil or crimal), at the first instance, in exercise of its original jurisdiction,
                                                 save, the vacation periods.
                                             </p>

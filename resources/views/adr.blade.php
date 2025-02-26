@@ -28,7 +28,7 @@
 										<!-- Column -->
 										<div class="column col-lg-8 col-md-8 col-sm-12">
                                             <div class="col-content">
-											<p class="text-justify">Borno Amicable Settlement Corridor was estbalished on 1st August, 2009
+											<p class="text-justify">Borno Amicable Settlement Corridor (BASC) was estbalished on 1st August, 2009
                                                 by directives of the Hon. Chief Judge, Justice Kashim Zannah. It was established with the aim to 
                                                 ease justice delivery by providing alternative to litigation in resolving disputes 
                                                 among parties.
@@ -42,7 +42,7 @@
                                                     <li>Sulhu <i>(in Arabic, Means Resolution) </i></li>
                                                 </ul>
                                                 Alternative Dispute Resolution Unit of the High Court receives applications from 
-                                                individuals or their legal representative, referal by court, tribunal or communinity leaders.
+                                                individuals or their legal representative, referral by court, tribunal or community leaders.
                                             </p>
 										</div>
                                     </div>

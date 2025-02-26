@@ -75,19 +75,7 @@
 					</div>
 				</div>
 
-                <!-- Team Block -->
-				<div class="team-block col-lg-3 mx-auto col-md-4 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<img src="assets/images/resource/Hon-Kadi-Abubakar-Imam-Kadi-1.jpg" alt="" />
-						</div>
-						<div class="lower-box">
-							<h5><a href="#">Hon. Kadi Abubakar Imam</a></h5>
-							<div class="designation">Kadi, Sharia Court of Appeal</div>
-							<a class="arrow flaticon-right-arrow-3" href="#"></a>
-						</div>
-					</div>
-				</div>
+                
 
                   <!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-4 col-sm-12">
