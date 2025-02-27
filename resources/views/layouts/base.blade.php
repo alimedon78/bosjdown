@@ -217,17 +217,14 @@
 								<div class="footer-widget contact-widget">
 									<h5>Headquater</h5>
 									<ul>
-										<li>
-											<span class="icon flaticon-call-1"></span>
-											<a href="tel:+234 8133450628">+234 8133450628</a>
-										</li>
+										    
 										<li>
 											<span class="icon flaticon-call-1"></span>
 											<a href="tel:+234 7057600015">+234 7057600015</a>
 										</li>
 										<li>
 											<span class="icon flaticon-email-2"></span>
-											<a href="mailto:info@bornojudiciary.ng">info@bornojudiciary.ng</a>
+											<a href="mailto:info.bornohighcourt@courts.gov.ng">info.bornohighcourt@courts.gov.ng</a>
 										</li>
 										<li>
 											<span class="icon flaticon-email-2"></span>
