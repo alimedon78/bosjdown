@@ -77,7 +77,7 @@
             <div class="sec-title centered">
                 <h2>Branches of the Judiciary</h2>
                 <div class="text">
-                    <p>The Borno State Juduciary has three (3) branches, The High Courts Division includes the Magistrates and Area Courts, The Sharia Court of Appeal
+                    <p>The Borno State Judiciary has three (3) branches, The High Courts Division includes the Magistrates and Area Courts, The Sharia Court of Appeal
                         headed by the Grand Kadi and the Judicial Service Commission chaired by the Chief Judge of the State.</p>
                 </div>
             </div>

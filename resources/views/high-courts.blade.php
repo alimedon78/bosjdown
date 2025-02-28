@@ -233,10 +233,10 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-Justice-.jpg" alt="" />
+							<img src="assets/images/resource/Hon-j-makinta.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Justice  </a></h5>
+							<h5><a href="#">Hon. Justice  Buna  Makinta</a></h5>
 							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
@@ -247,10 +247,10 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-.jpg" alt="" />
+							<img src="assets/images/resource/Hon-j-malgwi.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Justice </a></h5>
+							<h5><a href="#">Hon. Justice Bukar Umar Malgwi </a></h5>
 							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
@@ -260,10 +260,10 @@
 					<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
 							<div class="image">
-								<img src="assets/images/resource/Hon-.jpg" alt="" />
+								<img src="assets/images/resource/Hon-j-maina.jpg" alt="" />
 							</div>
 							<div class="lower-box">
-								<h5><a href="#">Hon. Justice </a></h5>
+								<h5><a href="#">Hon. Justice Mohammed Maina </a></h5>
 								<div class="designation">Judge, High  Court</div>
 								<a class="arrow flaticon-right-arrow-3" href="#"></a>
 							</div>
@@ -278,10 +278,10 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-Justice-.jpg" alt="" />
+							<img src="assets/images/resource/Hon-j-baffa.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Justice  </a></h5>
+							<h5><a href="#">Hon. Justice  Hafsat Isa Baffa</a></h5>
 							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
@@ -292,10 +292,10 @@
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="image">
-							<img src="assets/images/resource/Hon-.jpg" alt="" />
+							<img src="assets/images/resource/Hon-j-amina.jpg" alt="" />
 						</div>
 						<div class="lower-box">
-							<h5><a href="#">Hon. Justice </a></h5>
+							<h5><a href="#">Hon. Justice Amina Mustapha Ibrahim </a></h5>
 							<div class="designation">Judge, High  Court</div>
 							<a class="arrow flaticon-right-arrow-3" href="#"></a>
 						</div>
