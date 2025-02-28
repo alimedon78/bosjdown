@@ -175,15 +175,7 @@
 						</div>
 					</div>
 				</div>
- 
-				
-			</div>
-
-            
-			<div class="row clearfix">
-				 
-				
-				
+     
 				<!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
@@ -198,6 +190,11 @@
 					</div>
 				</div>
 
+				</div>
+
+            
+<div class="row clearfix">
+				
                 <!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
@@ -225,9 +222,6 @@
 						</div>
 					</div>
 					 
-			</div>
-
-			<div class="row clearfix">
 				 
 				<!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
@@ -242,6 +236,11 @@
 						</div>
 					</div>
 				</div>
+
+				</div>
+
+<div class="row clearfix">
+
 
                 <!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
@@ -270,10 +269,7 @@
 						</div>
 					</div>
 				
-			</div>
-
-			<div class="row clearfix">
-				 
+			
 				<!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
@@ -287,6 +283,11 @@
 						</div>
 					</div>
 				</div>
+
+				</div>
+
+			<div class="row clearfix">
+				 
 
                 <!-- Team Block -->
 				<div class="team-block col-lg-3 mx-auto col-md-6 col-sm-12">
