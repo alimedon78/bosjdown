@@ -1,5 +1,13 @@
 @extends("layouts.base")
-		
+	<script >
+table, th, td {
+padding:3px;
+width: 100%;
+border: 1px solid  #ddd;
+}
+
+
+    </script>	
 		@section("content")
 	
 	 
@@ -77,20 +85,25 @@
                                     </div>
 
 
+                                    <div class="column col-lg-12 col-md-12 col-sm-12">
+
+
                                                <div class="sec-title centered">
                 <h5>SMALL CLAIMS COURT CASES DISPOSITION/EXECUTION REPORTS</h5>
                     
                 </div>
                                        
 
-                                                <table class="table_bordered" style="border: #ddd 1px solid; padding:3px;" cellpadding="2px">
-                                                    <tbody>
+                                                <table class="table_bordered" style="border_collapse: collapse; padding:3px;" >
+                                                    <thead>
                                                     <tr>
                                                         <th> Year</th>
                                                         <th> Document Title/Description</th>
                                                         <th> SSC </th>
                                                         <th> File</th>
                                                     </tr>
+                                                    </thead>
+                                                    <tbody>
                                                     <tr>
                                                        <td>2024</td>
                                                         <td>Small Claims Court 2 2024 Case Execution Reports</td>
