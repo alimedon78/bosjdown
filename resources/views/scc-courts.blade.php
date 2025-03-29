@@ -159,7 +159,7 @@ border: 1px solid  #ddd;
                                               </tbody>
                                                 </table>
 
-                                            
+                                                 </div>
 									
 								
                                 </div>
