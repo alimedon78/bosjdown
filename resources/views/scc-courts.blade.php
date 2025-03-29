@@ -60,21 +60,65 @@
 												
                                             </p>
 
-                                             <li><a href="/assets/files/Borno-HC-Civil-Procedure-Rules-2017.pdf" >BORNO-HIGH-COURT-CIVIL-PROCEDURE-RULES-2017</a></li>
-												<h4>SMALL CLAIMS COURT CASES RETURNS/DEPOSITION REPORTS</h4>
+                                                <h4>SMALL CLAIMS COURT CASES RETURNS/DEPOSITION REPORTS</h4>
 
                                                 <table>
                                                     <tr>
-                                                        <th></th>
-                                                        <th>Document Title Description</th>
+                                                        <th>Year</th>
+                                                        <th>Document Title/Description</th>
                                                         <th>SSC</th>
                                                         <th>File</th>
                                                     </tr>
                                                     <tr>
-                                                       <td> </td>
-                                                        <td> </td>
-                                                        <td> </td>
-                                                        <td> </td>
+                                                       <td>2024</td>
+                                                        <td>Small Claims Court 2 2024 Case Execution Reports</td>
+                                                        <td>2</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>
+                                                  <tr>
+                                                       <td>2024</td>
+                                                        <td>Small Claims Court 1 2024 Case Execution Reports</td>
+                                                        <td> 1</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>
+                                                       <tr>
+                                                       <td>2024</td>
+                                                        <td>Small Claims Court 2 2024 Time to Disposition Reports</td>
+                                                        <td>2</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>
+                                                  <tr>
+                                                       <td>2024</td>
+                                                        <td>Small Claims Court 1 2024 Time to Disposition Reports</td>
+                                                        <td> 1</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>
+                                                    
+                                                    <tr>
+                                                       <td>2023</td>
+                                                        <td>Small Claims Court 2 2023 Execution Reports</td>
+                                                        <td>2</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>
+                                                  <tr>
+                                                       <td>2023</td>
+                                                        <td>Small Claims Court 1 2023 Case Execution Reports</td>
+                                                        <td> 1</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>  
+
+                                                    
+                                                    <tr>
+                                                       <td>2023</td>
+                                                        <td>Small Claims Court 2 2023 Time to Disposition Reports</td>
+                                                        <td>2</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                       <td>2023</td>
+                                                        <td>Small Claims Court 1 2023 Time to Disposition Reports</td>
+                                                        <td> 1</td>
+                                                        <td><a href="/assets/files/Small claims Court 2 2023 Time to Disposition Reports.pdf" >DOWNLOAD FILE</a></td>
                                                     </tr>
 
                                                     
