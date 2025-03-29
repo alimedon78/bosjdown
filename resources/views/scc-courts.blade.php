@@ -1,13 +1,5 @@
 @extends("layouts.base")
-	<script >
-table, th, td {
-padding:3px;
-width: 100%;
-border: 1px solid  #ddd;
-}
 
-
-    </script>	
 		@section("content")
 	
 	 
