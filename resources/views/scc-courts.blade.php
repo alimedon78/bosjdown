@@ -60,15 +60,35 @@
 												
                                             </p>
 
-                                                <P>SMALL CLAIMS COURT CASES DISPOSITION/EXECUTION REPORTS</P>
 
-                                                <table>
+
+										</div>
+                                    </div>
+										<!-- Column -->
+										
+                                        <div class="column col-lg-4 col-md-4 col-sm-12">
+                                            <div class="col-content-r">
+											<div class="image">
+												<img src="assets/images/resource/magistrate.jpg" alt="" />
+											</div>
+                                        </div>
+										</div>
+
+
+                                               <div class="sec-title centered">
+                <h3>SMALL CLAIMS COURT CASES DISPOSITION/EXECUTION REPORTS</h3>
+                <div class="text">
+                    
+                </div>
+                                       
+
+                                                <table class="table_bordered" border="1" cellpadding="2px">
                                                     <tbody>
                                                     <tr>
-                                                        <th>Year</th>
-                                                        <th>Document Title/Description</th>
-                                                        <th>SSC</th>
-                                                        <th>File</th>
+                                                        <th> Year</th>
+                                                        <th> Document Title/Description</th>
+                                                        <th> SSC</th>
+                                                        <th> File</th>
                                                     </tr>
                                                     <tr>
                                                        <td>2024</td>
@@ -125,17 +145,7 @@
                                               </tbody>
                                                 </table>
 
-										</div>
-                                    </div>
-										<!-- Column -->
-										
-                                        <div class="column col-lg-4 col-md-4 col-sm-12">
-                                            <div class="col-content-r">
-											<div class="image">
-												<img src="assets/images/resource/magistrate.jpg" alt="" />
-											</div>
-                                        </div>
-										</div>
+                                            
 									</div>
 								</div>
           
