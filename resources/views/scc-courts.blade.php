@@ -89,10 +89,10 @@
                                                 <table class="table_bordered" style="border_collapse: collapse; padding:3px;" >
                                                     <thead>
                                                     <tr>
-                                                        <th style="width:10px;" > Year</th>
-                                                        <th style="width:50px;"> Document Title/Description</th>
-                                                        <th style="width:20px;"> SSC </th>
-                                                        <th style="width:20px;"> File</th>
+                                                        <th style="width:10%;" > Year</th>
+                                                        <th style="width:50%;"> Document Title/Description</th>
+                                                        <th style="width:20%;"> SSC </th>
+                                                        <th style="width:20%;"> File</th>
                                                     </tr>
                                                     </thead>
                                                     <tbody>
