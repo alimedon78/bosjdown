@@ -19,13 +19,16 @@
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-<script >
+	<style >
+table, th, td {
+padding:3px;
+width: 100%;
+border: 1px solid  #ddd;
+padding: 12px;
+}
 
-    table, th,td {
-     border: #ddd 1px solid;
-    padding:3px;
-    }
-</script>
+
+    </style>	
 </head>
 
 <body class="hidden-bar-wrapper">
