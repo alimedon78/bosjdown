@@ -59,6 +59,27 @@
                                                     <b>here</b></a> 
 												
                                             </p>
+
+                                             <li><a href="/assets/files/Borno-HC-Civil-Procedure-Rules-2017.pdf" >BORNO-HIGH-COURT-CIVIL-PROCEDURE-RULES-2017</a></li>
+												<h4>SMALL CLAIMS COURT CASES RETURNS/DEPOSITION REPORTS</h4>
+
+                                                <table>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>Document Title Description</th>
+                                                        <th>SSC</th>
+                                                        <th>File</th>
+                                                    </tr>
+                                                    <tr>
+                                                       <td> </td>
+                                                        <td> </td>
+                                                        <td> </td>
+                                                        <td> </td>
+                                                    </tr>
+
+                                                    
+                                                </table>
+
 										</div>
                                     </div>
 										<!-- Column -->
