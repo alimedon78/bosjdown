@@ -7,7 +7,7 @@
 <link href="/assets/css/bootstrap.css" rel="stylesheet">
 <link href="/assets/css/style.css" rel="stylesheet">
 <link href="/assets/css/responsive.css" rel="stylesheet">
-
+ 
 <!--link href="https://fonts.googleapis.com/css2?family=Bellefair&family=Open+Sans:wght@300;400;700;800&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet" -->
 
 <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
