@@ -74,7 +74,7 @@
                                         </div>
 										</div>
                                         
-                                    </div>
+                                    
 
 
                                                <div class="sec-title centered">
@@ -88,7 +88,7 @@
                                                     <tr>
                                                         <th> Year</th>
                                                         <th> Document Title/Description</th>
-                                                        <th> SSC</th>
+                                                        <th> SSC </th>
                                                         <th> File</th>
                                                     </tr>
                                                     <tr>
@@ -149,6 +149,7 @@
                                             
 									
 								</div>
+                                </div>
           
         </div>
     </section>
