@@ -74,7 +74,7 @@
                                         </div>
 										</div>
                                         
-                                    
+                                    </div>
 
 
                                                <div class="sec-title centered">
@@ -148,7 +148,7 @@
 
                                             
 									
-								</div>
+								
                                 </div>
           
         </div>
