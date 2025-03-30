@@ -86,7 +86,12 @@
                 </div>
                                        
 
-                                                <table class="table_bordered" style="border_collapse: collapse; table-layout: auto; width:600px; padding:3px;" >
+                                                <table class="table_bordered" style="border_collapse: collapse; table-layout: auto; display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+  white-space: nowrap;" >
                                                     <thead>
                                                     <tr>
                                                         <th style="width:10%;" > Year</th>
@@ -97,13 +102,13 @@
                                                     </thead>
                                                     <tbody>
                                                     <tr>
-                                                       <td>2024</td>
+                                                       <td> 2024</td>
                                                         <td>Small Claims Court 2 2024 Case Execution Reports</td>
                                                         <td>2</td>
                                                         <td><a href="/assets/files/Small_Claims_Court_2_2024_Execution_Reports.pdf" >DOWNLOAD FILE</a></td>
                                                     </tr>
                                                   <tr>
-                                                       <td>2024</td>
+                                                       <td> 2024</td>
                                                         <td>Small Claims Court 1 2024 Case Execution Reports</td>
                                                         <td> 1</td>
                                                         <td><a href="/assets/files/Small_Claims_Court_1_2024_Execution_Report.pdf" >DOWNLOAD FILE</a></td>
@@ -115,14 +120,14 @@
                                                         <td><a href="/assets/files/Small_Claims_Court_2_2024_Time_To_Disposition_Reports.pdf" >DOWNLOAD FILE</a></td>
                                                     </tr>
                                                   <tr>
-                                                       <td>2024</td>
+                                                       <td>2024 </td>
                                                         <td> Small Claims Court 1 2024 Time to Disposition Reports</td>
                                                         <td> 1</td>
                                                         <td><a href="/assets/files/Small_Claims_Court_1_2024_Time_To_Disposition_Report.pdf" >DOWNLOAD FILE</a></td>
                                                     </tr>
                                                     
                                                     <tr>
-                                                       <td>2023</td>
+                                                       <td>2023 </td>
                                                         <td> Small Claims Court 2 2023 Execution Reports</td>
                                                         <td>2</td>
                                                         <td><a href="/assets/files/Small_Claims_Court_2_2023_Execution_Report.pdf" >DOWNLOAD FILE</a></td>
