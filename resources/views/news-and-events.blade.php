@@ -40,7 +40,7 @@
 									</div>
 									<div class="lower-content">
 										<h3>{{ $latest->title }}</h3>
-										{!! $latest->content !!}
+									<p style="text-align:justify;" >	{!! $latest->content !!} </p>
 									</div>
 									 
 								@elseif (isset($search))
