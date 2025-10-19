@@ -125,7 +125,23 @@
                                                         <td> 1</td>
                                                         <td><a href="/assets/files/Small_Claims_Court_1_2024_Time_To_Disposition_Report.pdf" >DOWNLOAD FILE</a></td>
                                                     </tr>
-                                                    
+
+                                                        <tr>
+                                                       <td>2023 </td>
+                                                        <td> Small Claims Court 1 2023_Execution_Indicator</td>
+                                                        <td>2</td>
+                                                        <td><a href="/assets/files/2023_Execution_Indicator_SCC_1.pdf" >DOWNLOAD FILE</a></td>
+                                                        </tr>
+
+                                                        <tr>
+                                                       <td>2023 </td>
+                                                        <td> Small Claims Court 2 2023_Execution_Indicator</td>
+                                                        <td>2</td>
+                                                        <td><a href="/assets/files/2023_Execution_Indicator_SCC_2.pdf" >DOWNLOAD FILE</a></td>
+                                                        </tr>
+
+           
+                                                        
                                                     <tr>
                                                        <td>2023 </td>
                                                         <td> Small Claims Court 2 2023 Execution Reports</td>
