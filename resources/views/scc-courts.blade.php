@@ -129,7 +129,7 @@
                                                         <tr>
                                                        <td>2023 </td>
                                                         <td> Small Claims Court 1 2023_Execution_Indicator</td>
-                                                        <td>2</td>
+                                                        <td>1</td>
                                                         <td><a href="/assets/files/2023_Execution_Indicator_SCC_1.pdf" >DOWNLOAD FILE</a></td>
                                                         </tr>
 
